@@ -1,0 +1,34 @@
+.vertical-menu {
+    width: 200px;
+    text-align: center;
+    font-family: 'Courier New';
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+  
+.center{
+    font-family: 'Calibri';
+    text-align: center;
+}
+
+.vertical-menu a {
+    background-color: #04AA6D;
+    color: rgb(250, 247, 247);
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+  
+.vertical-menu a:hover {
+    background-color: #0a7e53;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
