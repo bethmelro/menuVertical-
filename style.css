@@ -19,7 +19,7 @@
 }
 
 .vertical-menu a {
-    background-color: #04AA6D;
+    background-color: #c408ca;
     color: rgb(250, 247, 247);
     display: block;
     padding: 12px;
@@ -27,7 +27,7 @@
 }
   
 .vertical-menu a:hover {
-    background-color: #0a7e53;
+    background-color: #6b036e;
 }
 
 img {
